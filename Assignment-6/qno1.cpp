@@ -13,7 +13,7 @@ struct Node
 Node *headDoubly = nullptr;
 Node *headCircular = nullptr;
 
-// ======== Doubly Linked List Functions ========
+// ======== Doubly Linked List Functions 
 
 // Insert at end in Doubly Linked List
 void insertDoubly(int data)
@@ -101,7 +101,7 @@ void displayDoubly()
     cout << "\n";
 }
 
-// ======== Circular Doubly Linked List Functions ========
+// Circular Doubly Linked List Functions 
 
 // Insert at end in Circular Doubly Linked List
 void insertCircular(int data)
